@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+m_EditorVersion: 2017.1.0f3
+=======
+m_EditorVersion: 5.6.0f3
+>>>>>>> fbd9550575703e43ac42bf31d10200f75aede620
+=======
+m_EditorVersion: 2017.1.1f1
+>>>>>>> parent of d5a8d6a... キャラアニメ追加
+=======
+m_EditorVersion: 2017.1.1f1
+>>>>>>> parent of d5a8d6a... キャラアニメ追加

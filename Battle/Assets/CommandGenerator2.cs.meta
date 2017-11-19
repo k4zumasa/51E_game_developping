@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c367f58ac51b37e458bb1dffabbd5160
+timeCreated: 1507104216
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ArrowPrefab: {fileID: 1708356634494242, guid: b7912dabf05993c4ea6ac604bbff1113,
+      type: 2}
+  - CommandPrefab: {fileID: 1614888287012062, guid: 1b5575c34008b6149aefaf4bf7e79830,
+      type: 2}
+  - WindowPrefab: {fileID: 1341826122476080, guid: 6a4feb6849a892340abb6d3606636cca,
+      type: 2}
+  - ar: {instanceID: 0}
+  - co: {instanceID: 0}
+  - wi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

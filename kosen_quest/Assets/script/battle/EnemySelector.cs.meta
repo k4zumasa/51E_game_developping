@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f627c63a037484748bc762ffd58b95d4
+timeCreated: 1507807045
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BattleDirector: {instanceID: 0}
+  - CommandGenerator: {instanceID: 0}
+  - ArrowPrefab: {fileID: 1708356634494242, guid: b7912dabf05993c4ea6ac604bbff1113,
+      type: 2}
+  - ar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

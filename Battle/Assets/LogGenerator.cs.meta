@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ad516794e572af44b7adfa82b98cf2f
+timeCreated: 1507203820
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WindowPrefab3: {fileID: 1874128162836556, guid: cc60306b91d362b408f1c85e6b2925d8,
+      type: 2}
+  - logPrefab: {fileID: 1062968938221196, guid: ea06d1cecb7081545a166b18a152c10e,
+      type: 2}
+  - log: {instanceID: 0}
+  - wi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

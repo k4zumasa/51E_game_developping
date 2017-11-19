@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 6ec9cc5563c61c64da726bbacb6c9fea
+  - enabled: 1
+    path: Assets/script/field/In_Tent.unity
+    guid: e568a2b11aff9a547adae98524140b51
+  - enabled: 1
+    path: Assets/script/battle/Battlescene.unity
+    guid: 5a0f23176e72f9e42899f1d1fd7eb6ea
+  - enabled: 1
+    path: Assets/script/field/School.unity
+    guid: 00000000000000000000000000000000

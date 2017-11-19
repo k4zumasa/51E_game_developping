@@ -1,0 +1,9 @@
+
+New Unity Project test1/Assembly-CSharp-Editor.csproj
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+kosen_quest\Library\*
